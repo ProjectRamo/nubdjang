@@ -9,5 +9,5 @@ sudo python setup.py install
 # git add README
 # git add nubuntudjango.sh
 # git commit -m 'some comment'
-# git remote add origin https://github.com/projectramo/nubdjang
+# git remote add origin https://github.com/projectramo/nubdjang.git
 # git push origin master
