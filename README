@@ -12,5 +12,5 @@ should do the honors.
 Then 
 
 $ chmod +x ubunturails.sh
-$ ubunturails.sh
+$ ./ubunturails.sh
 
