@@ -4,7 +4,7 @@
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get dist-upgrade
-sudo reboot
+#sudo reboot if you're doing it manually
 sudo apt-get install curl
 sudo apt-get install emacs
 
